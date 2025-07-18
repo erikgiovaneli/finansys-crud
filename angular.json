@@ -45,17 +45,17 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap-utilities.min.css",
               "node_modules/primeicons/primeicons.css",
               "node_modules/primeng/resources/primeng.css",
-              "node_modules/primeng/resources/themes/nova-light/theme.css",
-              "node_modules/toastr/build/toastr.min.js"
+              "node_modules/primeng/resources/themes/nova-light/theme.css"
             ],
             "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/chart.js/dist/Chart.bundle.js",
-              "node_modules/jquery/dist/jquery.min.js"
+              "node_modules/toastr/build/toastr.min.js"
             ],
             "es5BrowserSupport": true
           },
